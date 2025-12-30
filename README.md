@@ -5,8 +5,6 @@
 <a href="https://www.linkedin.com/in/cynthia-ulokameje/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
 ## 👩‍💻 About Me  
 
 I am a data-focused professional with strong interests in **data analysis, time series forecasting, database systems, and network analysis**. I enjoy transforming raw data into meaningful insights and building analytical solutions that support decision-making.  
