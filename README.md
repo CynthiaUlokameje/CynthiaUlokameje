@@ -23,17 +23,17 @@ My work combines **statistical thinking, programming, and visualization** to exp
 ## 🔧 Tech Stack & Tools
 
 <p align="center">
-<img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img height="32" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img height="32" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img height="32" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img height="32" src="https://img.shields.io/badge/tidymodels-1A162D?style=for-the-badge&logo=r&logoColor=white" />
-<img height="32" src="https://img.shields.io/badge/networkx-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img height="32" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img height="32" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img height="32" src="https://img.shields.io/badge/Gephi-0A1A2F?style=for-the-badge&logoColor=white" />
-<img height="32" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img height="32" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/tidymodels-1A162D?style=for-the-badge&logo=r&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/networkx-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img height="22" src="https://img.shields.io/badge/Gephi-0A1A2F?style=for-the-badge&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
 
