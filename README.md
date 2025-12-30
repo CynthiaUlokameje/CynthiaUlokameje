@@ -41,14 +41,4 @@ My work combines **statistical thinking, programming, and visualization** to exp
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-
-## 📌 Featured Projects
-🔹 Explore my pinned repositories below for projects related to:
-- Data analysis & reporting  
-- Forecasting models  
-- Network analysis & graph data  
-- SQL & database-driven analytics  
-
-➡️ **Visit:** https://github.com/CynthiaUlokameje
-
 ⭐ *Always learning, analyzing, and building with data.*
