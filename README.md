@@ -1,3 +1,5 @@
+[![cover](https://github.com/CynthiaUlokameje/CynthiaUlokameje/blob/main/github%20cover.png)](https://github.com/CynthiaUlokameje?tab=repositories)
+
 <h3 align="center">Data Analyst | Data Science & Analytics Enthusiast</h3>
 
 <p align="center">
