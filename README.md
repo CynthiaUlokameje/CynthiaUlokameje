@@ -22,23 +22,23 @@ My work combines **statistical thinking, programming, and visualization** to exp
 
 ## 🔧 Tech Stack & Tools
 
-### Languages
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="center">
+<img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/tidymodels-1A162D?style=for-the-badge&logo=r&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/networkx-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img height="32" src="https://img.shields.io/badge/Gephi-0A1A2F?style=for-the-badge&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img height="32" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
 
-### Libraries & Frameworks
-![](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/tidymodels-1A162D?style=flat&logo=r&logoColor=white)
-![](https://img.shields.io/badge/networkx-000000?style=flat&logo=python&logoColor=white)
-
-### Visualization & Analytics
-![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/Gephi-0A1A2F?style=flat&logo=gephi&logoColor=white)
-
-### Databases
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 ⭐ *Always learning, analyzing, and building with data.*
+
+<img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img height="40" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
