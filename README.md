@@ -1,6 +1,6 @@
 [![cover](https://github.com/CynthiaUlokameje/CynthiaUlokameje/blob/main/github%20cover.png)](https://github.com/CynthiaUlokameje?tab=repositories)
 
-<h3 align="center">Data Analyst | Data Science & Analytics Enthusiast</h3>
+<h3 align="center">Data Analyst | AI & Machine Learning Applications | Forecasting & Information Technology</h3>
 
 <p align="center">
 <a href="mailto:culokameje@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -9,13 +9,16 @@
 
 ## 👩‍💻 About Me  
 
-I am a data-focused professional with strong interests in **data analysis, time series forecasting, database systems, and network analysis**. I enjoy transforming raw data into meaningful insights and building analytical solutions that support decision-making.  
+I am a data-driven professional with a strong foundation in data analysis, time series forecasting, database systems, and network analysis, and a growing focus on artificial intelligence and machine learning applications. I am passionate about transforming raw data into actionable insights and building analytical solutions that support intelligent, data-informed decision-making.
 
-My work combines **statistical thinking, programming, and visualization** to explore patterns, relationships, and trends across structured datasets. I am also developing a solid foundation in **security and cloud concepts**, aligning analytics with modern data infrastructure.
+My work integrates statistical thinking, programming, and visualization to uncover patterns, relationships, and trends across structured datasets. I am particularly interested in how these skills extend into AI-driven systems, including predictive modeling, automation, and intelligent decision support.
+
+I am also developing a solid foundation in security and cloud computing concepts, with the goal of building scalable, secure, and responsible AI solutions that align analytics, infrastructure, and real-world impact. I am actively pursuing opportunities that allow me to grow at the intersection of data science, AI, and modern data platforms.
 
 
 ## 🎯 Current Focus Areas
-- Data Analysis & Visualization  
+- Data Analysis & Visualization
+- Artificial Intelligence
 - Time Series Forecasting  
 - Database Systems & SQL  
 - Network Analysis  
